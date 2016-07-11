@@ -1,0 +1,17 @@
+E:\1.Dev.Net\Library\DbConnect\DbConnect\bin\Debug\DbConnect.dll
+E:\1.Dev.Net\Library\DbConnect\DbConnect\bin\Debug\DbConnect.pdb
+E:\1.Dev.Net\Library\DbConnect\DbConnect\bin\Debug\Oracle.DataAccess.dll
+E:\1.Dev.Net\Library\DbConnect\DbConnect\obj\Debug\DbConnect.dll
+E:\1.Dev.Net\Library\DbConnect\DbConnect\obj\Debug\DbConnect.pdb
+C:\Users\HOME\AppData\Roaming\Skype\My Skype Received Files\DbConnect\DbConnect\DbConnect\bin\Debug\DbConnect.dll
+C:\Users\HOME\AppData\Roaming\Skype\My Skype Received Files\DbConnect\DbConnect\DbConnect\bin\Debug\DbConnect.pdb
+C:\Users\HOME\AppData\Roaming\Skype\My Skype Received Files\DbConnect\DbConnect\DbConnect\bin\Debug\Oracle.DataAccess.dll
+C:\Users\HOME\AppData\Roaming\Skype\My Skype Received Files\DbConnect\DbConnect\DbConnect\obj\Debug\DbConnect.csprojResolveAssemblyReference.cache
+C:\Users\HOME\AppData\Roaming\Skype\My Skype Received Files\DbConnect\DbConnect\DbConnect\obj\Debug\DbConnect.dll
+C:\Users\HOME\AppData\Roaming\Skype\My Skype Received Files\DbConnect\DbConnect\DbConnect\obj\Debug\DbConnect.pdb
+D:\Source\2015\Projects\ongame\source\web\ongame\OnGame\DbConnect\DbConnect\bin\Debug\DbConnect.dll
+D:\Source\2015\Projects\ongame\source\web\ongame\OnGame\DbConnect\DbConnect\bin\Debug\DbConnect.pdb
+D:\Source\2015\Projects\ongame\source\web\ongame\OnGame\DbConnect\DbConnect\bin\Debug\Oracle.DataAccess.dll
+D:\Source\2015\Projects\ongame\source\web\ongame\OnGame\DbConnect\DbConnect\obj\Debug\DbConnect.dll
+D:\Source\2015\Projects\ongame\source\web\ongame\OnGame\DbConnect\DbConnect\obj\Debug\DbConnect.pdb
+D:\Source\2015\Projects\ongame\source\web\ongame\OnGame\DbConnect\DbConnect\obj\Debug\DbConnect.csprojResolveAssemblyReference.cache

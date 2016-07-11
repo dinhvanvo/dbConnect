@@ -1,0 +1,6 @@
+D:\Source\2015\Projects\ongame\source\web\ongame\OnGame\DbConnect\DbConnect\bin\Release\DbConnect.dll
+D:\Source\2015\Projects\ongame\source\web\ongame\OnGame\DbConnect\DbConnect\bin\Release\DbConnect.pdb
+D:\Source\2015\Projects\ongame\source\web\ongame\OnGame\DbConnect\DbConnect\obj\Release\DbConnect.csprojResolveAssemblyReference.cache
+D:\Source\2015\Projects\ongame\source\web\ongame\OnGame\DbConnect\DbConnect\obj\Release\DbConnect.dll
+D:\Source\2015\Projects\ongame\source\web\ongame\OnGame\DbConnect\DbConnect\obj\Release\DbConnect.pdb
+D:\Source\2015\Projects\ongame\source\web\ongame\OnGame\DbConnect\DbConnect\bin\Release\Oracle.DataAccess.dll
